@@ -6,3 +6,4 @@ __pycache__/
 *.pth
 reasoning-from-scratch/
 tokenizer-reasoning.json
+chapter_6/qwen3/tokenizer-base.json
